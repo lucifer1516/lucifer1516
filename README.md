@@ -1,5 +1,5 @@
-Hi i'm Alex
-i like coding
+Hi i'm Alex,
+i like coding,
 i used to in python and BDFD
 
 <!---
